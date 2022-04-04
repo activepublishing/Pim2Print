@@ -39,10 +39,10 @@ PDF Export (with ou without markers, CMYK or RGB...)
 <br/>Product boxes edition (Position & Size)
 
 ![image](https://user-images.githubusercontent.com/26277574/161524459-4165ced3-b15a-41bf-a2d0-5cf0223bd7c5.png)
-Product boxes edition (color, border, shadow, radius, background...)
+<br/>Product boxes edition (color, border, shadow, radius, background...)
 
 ![image](https://user-images.githubusercontent.com/26277574/161524779-5538b25f-d0a5-46ec-b613-84383083cb85.png)
-Product boxes edition (Font)
+<br/>Product boxes edition (Font)
 
 # How to get the plugin
 To buy this solution, write an email to contact@active-publishing.fr
