@@ -52,7 +52,7 @@ We propose remote demonstrations to see all the features of the solution
 
 # Informations
 Author: ACTIVE PUBLISHING
-Version: v3.0
-Last updated: 06.04.2022
-Contact: contact@active-publishing.fr
-Website: https://activepublishing.fr
+<br/>Version: v3.0
+<br/>Last updated: 06.04.2022
+<br/>Contact: contact@active-publishing.fr
+<br/>Website: https://activepublishing.fr
