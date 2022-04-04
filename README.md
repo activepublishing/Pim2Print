@@ -36,7 +36,7 @@ FlatPlan preview mode
 PDF Export (with ou without markers, CMYK or RGB...)
 
 ![image](https://user-images.githubusercontent.com/26277574/161524004-295ebbba-ad4d-42e2-93ed-9151bc2a0ebd.png)
-Product boxes edition (Position & Size)
+\nProduct boxes edition (Position & Size)
 
 ![image](https://user-images.githubusercontent.com/26277574/161524459-4165ced3-b15a-41bf-a2d0-5cf0223bd7c5.png)
 Product boxes edition (color, border, shadow, radius, background...)
