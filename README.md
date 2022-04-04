@@ -15,6 +15,7 @@ WebToPrint Solution to create, manage Print publication drafts and export them t
 - Complete or selective data update (Price only, with or without images...)
 - Preview of catalogs and chapters in miniature mode, flatplan, double pages
 - Covers management
+- Publications variations for your members, resellers from a master publication. Automation of black dubbing
 
 # Adobe® InDesign
 Pim2Print includes a plugin for InDesign which allows the automatic generation of pages and their updating after having arranged them.
@@ -43,5 +44,15 @@ Product boxes edition (color, border, shadow, radius, background...)
 ![image](https://user-images.githubusercontent.com/26277574/161524779-5538b25f-d0a5-46ec-b613-84383083cb85.png)
 Product boxes edition (Font)
 
-# Prerequisites
-PimCore X
+# How to get the plugin
+To buy this solution, write an email to contact@active-publishing.fr
+
+# Demo
+We propose remote demonstrations to see all the features of the solution
+
+# Informations
+Author: ACTIVE PUBLISHING
+Version: v3.0
+Last updated: 06.04.2022
+Contact: contact@active-publishing.fr
+Website: https://activepublishing.fr
