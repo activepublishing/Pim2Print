@@ -16,5 +16,16 @@ WebToPrint Solution to create, manage Print publication drafts and export them t
 - Preview of catalogs and chapters in miniature mode, flatplan, double pages
 - Covers management
 
+# Adobe® InDesign
+Pim2Print includes a plugin for InDesign which allows the automatic generation of pages and their updating after having arranged them.
+Additional features are available such as:
+- "History" function that displays all the actions made to quickly go back X steps
+- HTML export (including block size and position)
+- Export all formats (Managed by InDesign)
+- Database connection
+- Data display
+
+![image](https://user-images.githubusercontent.com/26277574/161521236-71b35650-9335-4d36-a2f4-902e0d1dc519.png)
+
 # Prerequisites
 PimCore X
