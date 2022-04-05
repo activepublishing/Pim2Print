@@ -45,7 +45,7 @@ PDF Export (with ou without markers, CMYK or RGB...)
 <br/>Product boxes edition (Font)
 
 # How to get the plugin
-To buy this solution, write an email to contact@active-publishing.fr
+To buy the solution, contact us by mail contact@active-publishing.fr or use form on our website
 
 # Demo
 We propose remote demonstrations to see all the features of the solution
